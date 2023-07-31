@@ -1,0 +1,10 @@
+.ant-card{
+    border-radius: 0px !important;
+}
+.top-card .ant-card-body{
+    padding: 10px 20px !important;
+    border-radius: 0px !important;
+}
+.top-card .add-new{
+    margin-right: 10px;
+}
